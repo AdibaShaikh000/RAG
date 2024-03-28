@@ -16,21 +16,26 @@ The RAG application utilizes a combination of retrieval-based and generation-bas
 ## Setup
 
 1. Clone the repository:
+
 git clone https://github.com/AdibaShaikh000/RAG.git
 
 2. Install dependencies:
+
 pip install -r requirements.txt
 
-3. Obtain API key
+3. Obtain API key:
+
 Create your API keys for Lang Chain and OpenAI on Open AI website.
 You can locate your key here:
 https://platform.openai.com/api-keys
 
-4. Dataset
+4. Dataset:
+
 The Approved IP Law PDF dataset is sourced from Huggingface's datasets.
 https://huggingface.co/datasets/omar87/pdf-laws
 
-5. Run the file
+5. Run the file:
+
 You can directly execute the Jupyter notebook of the project to gain insight into each component
 
 ## Usage
